@@ -12,8 +12,7 @@ Open **[Releases](../../releases)** and download the installer for your computer
 - **Windows:** the file ending in `-setup.exe`
 - **Mac:** the file ending in `.dmg` (works on Apple Silicon and Intel Macs)
 
-It's in beta (version 0.9.1). During the beta, some screens may still show the app's working name, *Preproduction
-suite*.
+It's in beta (version 0.9.1).
 
 ## Opening it the first time
 
