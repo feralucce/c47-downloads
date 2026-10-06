@@ -5,7 +5,18 @@ sheets, look book and budget, all in one project file, with every industry term 
 
 This page is where the installers live. The program's source isn't published.
 
-## Get it
+## Use it in your browser (Mac, Windows or Linux)
+
+**[Open C-47 Production Engine in your browser](https://feralucce.github.io/c47-downloads/)**. Nothing to install,
+and it works on a Mac.
+
+- **Use Chrome or Edge if you can.** They can save straight back to your project file. Safari and Firefox work too,
+  but each Save downloads a fresh copy of the project to your Downloads folder.
+- Your work is also kept automatically in the browser, so an unsaved project can be recovered from the start screen.
+  Clearing the browser's site data deletes that copy, so save to a file regularly.
+- The same once-a-week check-in applies (see below).
+
+## Get the Windows installer
 
 Open **[Releases](../../releases)** and download the file ending in `-setup.exe` from the newest release.
 
