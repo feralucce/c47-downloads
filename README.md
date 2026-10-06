@@ -11,6 +11,11 @@ Open **[Releases](../../releases)** and download the file ending in `-setup.exe`
 
 The beta (version 0.9.1) is for **Windows**. A Mac version is coming once it can be signed by Apple.
 
+**During the beta, the app must go online at least once a week.** It checks in by itself each time it opens with an
+internet connection. If it can't for 7 days, it turns read-only (your projects still open, print and export) until it
+goes online again. The start screen shows which build you have, for example "Version 0.9.2 (build 5, ...)", so
+include it when you report a problem.
+
 ## Opening it the first time
 
 The beta isn't signed by Microsoft yet, so the first time you open it, Windows warns you that it doesn't know who made
