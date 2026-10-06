@@ -1,0 +1,5 @@
+The C-47 Production Engine beta is on.
+
+Beta copies of the app look for this file each time they start. While it is here, the beta works.
+When the beta ends, this file is removed, and beta copies become read-only: projects still open, show,
+print and export, but can't be edited.
