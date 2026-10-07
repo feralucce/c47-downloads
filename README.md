@@ -5,6 +5,11 @@ sheets, look book and budget, all in one project file, with every industry term 
 
 This page is where the installers live. The program's source isn't published.
 
+## Sign up first
+
+**[Sign up for the beta](https://forms.gle/pXxZueWLtoscpZMx6)**. Everyone who signs up and tests the beta before
+release receives a permanent license for free when it launches, sent to the email you give.
+
 ## Use it in your browser (Mac, Windows or Linux)
 
 **[Open C-47 Production Engine in your browser](https://feralucce.github.io/c47-downloads/)**. Nothing to install,
