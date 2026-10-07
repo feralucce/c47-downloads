@@ -21,6 +21,12 @@ and it works on a Mac.
   Clearing the browser's site data deletes that copy, so save to a file regularly.
 - The same once-a-week check-in applies (see below).
 
+## Someone sent you a project? Use the free reader
+
+**[Open C-47 Reader](https://feralucce.github.io/c47-downloads/reader/)**. It's free, needs no sign-up or license,
+and runs in any browser. Open the `.preprod` file you were sent to read the script, breakdown, shooting order, call
+sheets and budget, and to print or export them. The reader can't change anything in the file.
+
 ## Get the Windows installer
 
 Open **[Releases](../../releases)** and download the file ending in `-setup.exe` from the newest release.
